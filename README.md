@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jewi1, my real name is Vyacheslav. I am begginer Frontend developer
+- 🌱 I’m currently learning JavaScript (ES6 and newest), TypeScript and React
+- 👐 In this GitHub, I publish educational projects, I mainly publish site layouts.
+- 💪 I create templates with Pug, Scss, Gulp and Webpack 
+- 📫 My e-mail: slava.89989@gmail.com
+- ✔️ My Telegram: @ezzzy_1
